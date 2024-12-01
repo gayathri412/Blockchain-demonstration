@@ -68,5 +68,5 @@ def main():
     app = BlockchainApp(root)
     root.mainloop()
 
-if name == "__main__":
+if __name__ == "__main__":
     main()
